@@ -18,8 +18,8 @@ ADD/CHANGE DATABASE CREDINTIALS AT LINES :-
 
 Login.py -> 22,35,44
 
-;signup.py -> 31
+signup.py -> 31
 
-;main.py -> 284,298,342,374,409
+main.py -> 284,298,342,374,409
 
 
